@@ -1,4 +1,4 @@
-# Develop AI Agents in Azure
+# AgentGalore
 
 The exercises in this repo are designed to provide you with a hands-on learning experience in which you'll explore common tasks that developers perform when building AI agents on Microsoft Azure.
 
